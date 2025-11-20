@@ -1,9 +1,3 @@
-<h1 align="center">
-  <img src="https://svgshare.com/i/16y2.svg" alt="HSU PU YUN" />
-</h1>
-
-<br/>
-
 <h2 align="center">Hi 👋, I'm Hsu Pu Yun</h2>
 <p align="center"><em>Senior QA & Automation Engineer focused on camera validation, SSD performance, and AIoT systems.</em></p>
 
