@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Hsu Pu Yun</h2>
+<h2 align="center">👋 Hi, I'm Hsu Pu Yun</h2>
 <p align="center"><em>Senior QA & Automation Engineer focused on camera validation, SSD performance, and AIoT systems.</em></p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
